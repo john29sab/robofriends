@@ -1,20 +1,20 @@
 export const robots = [
     {
         id: 1,
-        name: 'Leanne Graham',
-        username: 'Bret',
+        name: 'Marielou Marupok,
+        username: 'Mhalou',
         email: 'Sincere@april.biz'
     },
     {
         id: 2,
-        name: 'Ervin Howell',
-        username: 'Antonette',
+        name: 'Shaira Joy',
+        username: 'Superjoy',
         email: 'Shanna@melissa.tv'
     },
     {
         id: 3,
-        name: 'Clementine Bauch',
-        username: 'Samantha',
+        name: 'Jinky Matatag',
+        username: 'alone',
         email: 'Nathan@yesenia.net'
     },
     {
